@@ -1,4 +1,4 @@
 # Hello!
 ### It works.
-![banner](https://raw.githubusercontent.com/USER/REPO/main/images/update1.png)
+![banner](https://raw.githubusercontent.com/NoSleepKid/nukstudios-news/main/lostfriends/photo.png)
 eee
